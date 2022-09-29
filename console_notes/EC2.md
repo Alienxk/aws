@@ -1,5 +1,11 @@
 # Instances
 
+**Launch Instance**
+
+1. select `Instances`.
+2. select `Lauch Instances`.
+3. configure and select `Lauch Instance`.
+
 **Launch Instance from existing Instance**
 
 1. select `Instances`.

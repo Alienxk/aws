@@ -1,5 +1,31 @@
 # Virtual private cloud
 
+**Create VPC**
+
+1. select `Your VPCs`.
+2. select `Create VPC`.
+3. configure and select `Create VPC`.
+
+**Create Internet Gateway**
+
+1. select `Internet Gateways`.
+2. select `Create internet gateway`.
+3. configure and select `Create internet gateway`.
+
+**Attach Internet Gateway to VPC**
+
+1. select `Internet Gateways`.
+2. select an existing internet gateway.
+3. select `Actions`.
+4. select `Attach to VPC`.
+5. configure and select `Attach internet gateway`.
+
+**Create Route Table**
+
+1. select `Route tables`.
+2. select `Create route table`.
+3. configure and select `Create route table`.
+
 **Add Route**
 
 1. select `Route tables`.
